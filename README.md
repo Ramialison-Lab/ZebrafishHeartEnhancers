@@ -5,9 +5,7 @@ Pipeline for ChIP-Seq analyses of the Zebrafish Heart Enhancers datasets.
 
 Code for the manuscript: Markus Tondl^, Gulrez Chahal1^, Michael P. Eichenlaub1^, Michał Pawlak, Monika Mohenska, Lin Grimm, Lauren Bottrell, Mark Drvodelic, Sara Alaei, Jeannette Hallab, Lisa N. Waylen, Jose M. Polo, Cédric Blanpain, Eileen Furlong, Nathan Palpant, Ben Hogan, Cecilia Winata, Ekaterina Salimova, Hieu T. Nim*, Mirana Ramialison*. "An in vivo repertoire of zebrafish cardiomyocyte-specific cis-regulatory elements". 
 
-Languages: Bash
-Operating systems: Windows, Linux, Mac OSX. 
-Fully tested on Linux Ubuntu 20.04. 
+Languages: Bash. Operating systems: Windows, Linux, Mac OSX. Fully tested on Linux Ubuntu 20.04. 
 
 ## Getting the Source Code
 
