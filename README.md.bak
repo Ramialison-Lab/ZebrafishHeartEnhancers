@@ -49,9 +49,6 @@ trim_galore -q 28 --paired --gzip --phred33 --stringency 3 Sample_fastq1.fq.gz S
 
 STAR --runThreadN 8 --outSAMattributes All --genomeLoad NoSharedMemory --readFilesCommand zcat -- genomeDir /path/to/genome/star/ --readFilesIn infile.fq.gz --outFileNamePrefix mapped_
 
-(optional) 3a. Alignment using BWA
-bwa mem -t 8 Danio_rerio.GRCz10.dna.toplevel.fa infile.fq.gz > infile_aligned.sam
-
 
 4. Convert sam to bam format:
 
